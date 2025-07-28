@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="AddTrainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AssignEmployee.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CustomerDashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FindEmployee.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MyData.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="NoLoginDashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SignupForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ControlCenterForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="EmergencyForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Dashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="LandingPage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="LoginForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MaintenanceScheduleForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="RouteForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="StationForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="TicketForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="VIewAllDataForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
